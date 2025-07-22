@@ -29,7 +29,7 @@ This project allows playing **Connect Four** in multiple modes:
 * Player vs Player
 * Player vs **Monte Carlo Tree Search (MCTS)**
 * Player vs **Decision Tree (ID3)**
-* **AI vs AI** (****etween different difficulty levels and models)
+* **AI vs AI** (Between different difficulty levels and models)
 
 Both the **MCTS** and **ID3 Decision Tree** algorithms were implemented from scratch.
 
